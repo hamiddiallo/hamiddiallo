@@ -1,46 +1,54 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2D9CDB&center=true&vCenter=true&width=600&lines=Salut%2C+moi+c'est+hamiddiallo+%F0%9F%91%8B;%C3%89tudiant+en+G%C3%A9nie+Logiciel;Passionn%C3%A9+Backend+Java+%26+Spring+Boot;Bas%C3%A9+%C3%A0+Dakar%2C+S%C3%A9n%C3%A9gal+%F0%9F%87%B8%F0%9F%87%B3" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2D9CDB&center=true&vCenter=true&width=600&lines=Développeur+Full-Stack;Spécialisation+Back-end;Étudiant+en+Génie+Logiciel;Dakar%2C+Sénégal" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## À propos de moi
+### À propos
 
-Étudiant en Génie Logiciel à l'**ESP Dakar** (Bac+5), basé à Dakar, Sénégal.  
-Je me spécialise dans le développement backend avec **Java & Spring Boot**, et j'aime concevoir des systèmes fiables et bien structurés.  
-En dehors des cours, je travaille sur des projets personnels pour mettre en pratique ce que j'apprends.
+Étudiant en Génie Logiciel à l'**École Supérieure Polytechnique (ESP)** de Dakar. Passionné par l'architecture logicielle et le design de systèmes, je me spécialise dans le développement **back-end** (Java / Spring Boot) tout en maîtrisant les technologies modernes du front-end pour une approche logicielle complète.
+
+Mon approche privilégie la rigueur, la performance et la maintenabilité du code.
 
 ---
 
-## Stack technique
+### Expertise Technique
+
+#### Back-end
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+
+#### Front-end
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+#### DevOps & Outils
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)](https://maven.apache.org/)
+
+---
+
+### Activité GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hamiddiallo&show_icons=true&theme=transparent&hide_border=true&title_color=2D9CDB&icon_color=2D9CDB&text_color=888888" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamiddiallo&layout=compact&theme=transparent&hide_border=true&title_color=2D9CDB&text_color=888888" alt="Top Languages" />
+</div>
+
+---
+
+### Me contacter
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,nodejs,postgres,mysql,mongodb,docker,git,maven&theme=light" />
-
-</div>
-
----
-
-## En ce moment
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif" />
-
-- 🎓 Bac+5 Génie Logiciel — ESP Dakar
-- 🔧 Développement de projets personnels en Java / Spring Boot
-- 📐 Approfondissement de l'architecture logicielle et du design de systèmes
-- 🤝 Ouvert aux opportunités de stage et de collaboration
-- 🌍 Dakar, Sénégal
-
----
-
-## Me contacter
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdoulhamid026@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton@email.com)
 
 </div>
 
@@ -48,6 +56,7 @@ En dehors des cours, je travaille sur des projets personnels pour mettre en prat
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=888888&center=true&vCenter=true&width=500&lines=Un+bon+code%2C+c'est+du+code+que+l'on+peut+lire%2C+comprendre+et+maintenir." alt="quote" />
+*Un bon code est un code lisible, compréhensible et maintenable.*
 
 </div>
+
