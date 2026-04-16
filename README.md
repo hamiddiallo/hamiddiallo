@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2D9CDB&center=true&vCenter=true&width=600&lines=Développeur+Full-Stack;Spécialisation+Back-end;Étudiant+en+Génie+Logiciel;Dakar%2C+Sénégal" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2D9CDB&center=true&vCenter=true&width=600&lines=D%C3%A9veloppeur+Full-Stack;Sp%C3%A9cialisation+Back-end;%C3%89tudiant+en+G%C3%A9nie+Logiciel;Dakar%2C+S%C3%A9n%C3%A9gal" alt="Typing SVG" />
 
 </div>
 
@@ -14,7 +14,7 @@ Mon approche privilégie la rigueur, la performance et la maintenabilité du cod
 
 ---
 
-### Expertise Technique
+### Preference Technique
 
 #### Back-end
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
@@ -35,10 +35,19 @@ Mon approche privilégie la rigueur, la performance et la maintenabilité du cod
 
 ---
 
-### Activité GitHub
+### 📂 Projets & Parcours
+
+Actuellement focalisé sur le renforcement de mon apprentissage **back-end** et la maîtrise des architectures scalables.
+
+- **Conception d'API** : Développement de services RESTful robustes avec Spring Boot, en mettant l'accent sur la sécurité et la performance.
+- **Architecture & Design** : Application des principes SOLID, Design Patterns et exploration de la Clean Architecture.
+- **Base de données** : Modélisation et optimisation de schémas relationnels (PostgreSQL, MySQL).
+
+---
+
+### 🛠️ Langages les plus utilisés
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamiddiallo&show_icons=true&theme=transparent&hide_border=true&title_color=2D9CDB&icon_color=2D9CDB&text_color=888888" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamiddiallo&layout=compact&theme=transparent&hide_border=true&title_color=2D9CDB&text_color=888888" alt="Top Languages" />
 </div>
 
