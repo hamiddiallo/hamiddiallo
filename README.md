@@ -1,6 +1,8 @@
-# richCode
+<div align="center">
 
-**Étudiant en Génie Logiciel** — Passionné par le backend et les architectures robustes.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2D9CDB&center=true&vCenter=true&width=600&lines=Salut%2C+moi+c'est+hamiddiallo+%F0%9F%91%8B;%C3%89tudiant+en+G%C3%A9nie+Logiciel;Passionn%C3%A9+Backend+Java+%26+Spring+Boot;Bas%C3%A9+%C3%A0+Dakar%2C+S%C3%A9n%C3%A9gal+%F0%9F%87%B8%F0%9F%87%B3" alt="Typing SVG" />
+
+</div>
 
 ---
 
@@ -14,39 +16,38 @@ En dehors des cours, je travaille sur des projets personnels pour mettre en prat
 
 ## Stack technique
 
-**Langages**  
-`Java` `JavaScript` `TypeScript` `SQL` `HTML/CSS`
+<div align="center">
 
-**Frameworks & Outils**  
-`Spring Boot` `React` `Node.js` `Git` `Docker` `Maven`
+<img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,nodejs,postgres,mysql,mongodb,docker,git,maven&theme=light" />
 
-**Bases de données**  
-`PostgreSQL` `MySQL` `MongoDB`
-
----
-
-## Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=richCode&show_icons=true&theme=default&hide_border=true&count_private=true&locale=fr" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richCode&layout=compact&hide_border=true&theme=default" alt="Langages les plus utilisés" />
-</p>
+</div>
 
 ---
 
 ## En ce moment
 
-- Développement de projets personnels en Java / Spring Boot
-- Approfondissement des concepts d'architecture logicielle et de conception de systèmes
-- À la recherche d'opportunités de stage ou de collaboration
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif" />
+
+- 🎓 Bac+5 Génie Logiciel — ESP Dakar
+- 🔧 Développement de projets personnels en Java / Spring Boot
+- 📐 Approfondissement de l'architecture logicielle et du design de systèmes
+- 🤝 Ouvert aux opportunités de stage et de collaboration
+- 🌍 Dakar, Sénégal
 
 ---
 
 ## Me contacter
 
-N'hésitez pas à explorer mes dépôts ou à me contacter.
+<div align="center">
 
-> *"Un bon code, c'est du code que l'on peut lire, comprendre et maintenir."*
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdoulhamid026@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=888888&center=true&vCenter=true&width=500&lines=Un+bon+code%2C+c'est+du+code+que+l'on+peut+lire%2C+comprendre+et+maintenir." alt="quote" />
+
+</div>
